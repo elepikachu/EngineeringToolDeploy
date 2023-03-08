@@ -1,0 +1,6 @@
+# Ignore ecerything (folders and files on root only)
+/*
+!api
+!vercel.json
+!8.html
+!*.css
